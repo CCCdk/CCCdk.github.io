@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as n,c,b as a,e as r,w as s,d as _}from"./app-UUuqQ2DY.js";const l={},d={align:"center"};function f(i,m){const e=o("font");return n(),c("div",null,[a("p",d,[r(e,{color:"gray"},{default:s(()=>[_("这是主包的一些朋友嗷")]),_:1})])])}const x=t(l,[["render",f],["__file","index.html.vue"]]);export{x as default};
