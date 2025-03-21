@@ -1,0 +1,65 @@
+// place your custom styles here
+// a code
+//   color #fff
+
+$text-color: #2c3e50;
+$text-color-dark: #abb2bf;
+$navbar-height: 3.75rem;
+
+p{a{code{
+    color: $text-color;
+}}}
+td{a{code{
+    color: $text-color;
+}}}
+.hint-container.details {
+    border: 0.1rem solid #eee;
+    background-color: #fff;
+    overflow: hidden;
+}
+.hint-container.details summary {
+    background-color: #eee;
+}
+html[data-theme=dark] #app {
+    p{a{code{
+        color: $text-color-dark;
+    }}}
+    td{a{code{
+        color: $text-color-dark;
+    }}}
+    .hint-container.details {
+        border: 0.1rem solid #333;
+        background-color: #0d1117;
+        overflow: hidden;
+    }
+    .hint-container.details summary {
+        background-color: #333;
+    }
+}
+
+.vp-md-demo-display {
+    padding: 8px 18px;
+}
+
+.vp-article-list {
+    padding-top: calc($navbar-height + 0.8rem);
+}
+
+.vp-md-demo-code-wrapper {
+    display: none;
+}
+
+.external-link-icon {
+    display: none;
+}
+
+.vp-highlight-image {
+    width: 18rem;
+    border-radius: 0.3rem;
+    background-color: transparent;
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.5);
+}
+
+// .vp-feature-image {
+//     height: 18rem;
+// }
