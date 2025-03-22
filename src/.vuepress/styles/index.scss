@@ -60,6 +60,14 @@ html[data-theme=dark] #app {
     box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.5);
 }
 
+/* styles.css */
+.under-construction {
+    color: #ccc; /* 灰色文字 */
+    cursor: not-allowed; /* 鼠标悬停时显示“禁止”光标 */
+    pointer-events: none; /* 禁用点击事件 */
+    text-decoration: line-through; /* 文字添加删除线 */
+}
+
 // .vp-feature-image {
 //     height: 18rem;
 // }
