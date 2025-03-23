@@ -1,1 +1,0 @@
-import{_ as t,o as a,c,b as e,d as _}from"./app-xzMEyGNT.js";const o={},r=e("h1",{id:"_1-项目框架搭建",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_1-项目框架搭建","aria-hidden":"true"},"#"),_(" 1. 项目框架搭建")],-1),s=[r];function n(d,i){return a(),c("div",null,s)}const l=t(o,[["render",n],["__file","1.html.vue"]]);export{l as default};

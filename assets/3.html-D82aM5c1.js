@@ -1,1 +1,0 @@
-import{_ as t,o as r,c as a,b as e,d as o}from"./app-xzMEyGNT.js";const c={},_=e("h1",{id:"_3-我的-offer",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_3-我的-offer","aria-hidden":"true"},"#"),o(" 3. 我的 Offer")],-1),s=[_];function n(d,f){return r(),a("div",null,s)}const h=t(c,[["render",n],["__file","3.html.vue"]]);export{h as default};
