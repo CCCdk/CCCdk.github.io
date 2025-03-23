@@ -1,7 +1,7 @@
 import { sidebar } from 'vuepress-theme-hope';
 
 export default sidebar({
-	'/my-react/': 'structure',
+	'/my-react/': 'structure',	
 	'/about/': 'structure',
 	'/my-vue/': [
 		'',
@@ -125,38 +125,8 @@ export default sidebar({
 		},
 		{
 			text: '数据结构与算法',
-			children: [
-				{
-					text: '算法笔记',
-					icon: 'repo',
-					link: 'https://2xiao.github.io/leetcode-js/book/',
-					target: '_self'
-				},
-				{
-					text: 'LeetCode 题解',
-					icon: 'code',
-					link: 'https://2xiao.github.io/leetcode-js/problem/',
-					target: '_self'
-				},
-				{
-					text: '剑指 Offer',
-					icon: 'keyboard',
-					link: 'https://2xiao.github.io/leetcode-js/offer/',
-					target: '_self'
-				},
-				{
-					text: '剑指 Offer II',
-					icon: 'template',
-					link: 'https://2xiao.github.io/leetcode-js/offer2/',
-					target: '_self'
-				},
-				{
-					text: '程序员面试金典',
-					link: 'https://2xiao.github.io/leetcode-js/interview/',
-					icon: 'result',
-					target: '_self'
-				}
-			],
+			children: 'structure',
+			prefix: 'trend/',
 			collapsible: true
 		},
 		{
