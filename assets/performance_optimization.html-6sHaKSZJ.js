@@ -1,1 +1,0 @@
-import{_ as o,r as t,o as n,c as a,e as c,w as r,d as s,b as _}from"./app-zPI8OJ9F.js";const l={},i=_("p",null,"性能优化",-1);function f(m,p){const e=t("font");return n(),a("div",null,[c(e,{color:"gray"},{default:r(()=>[s("🛠️ 建设中...")]),_:1}),i])}const u=o(l,[["render",f],["__file","performance_optimization.html.vue"]]);export{u as default};

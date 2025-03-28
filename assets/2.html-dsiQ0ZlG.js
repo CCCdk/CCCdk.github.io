@@ -1,1 +1,0 @@
-import{_ as t,o as a,c,b as e,d as _}from"./app-zPI8OJ9F.js";const o={},r=e("h1",{id:"_2-竞赛与奖项",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_2-竞赛与奖项","aria-hidden":"true"},"#"),_(" 2. 竞赛与奖项")],-1),s=[r];function n(d,i){return a(),c("div",null,s)}const l=t(o,[["render",n],["__file","2.html.vue"]]);export{l as default};
